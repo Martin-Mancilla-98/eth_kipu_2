@@ -27,7 +27,7 @@ Este proyecto simula el proceso real de desarrollar, mantener y escalar contrato
 
 ---
 
-## ▶️ Instrucciones de interacción
+## Instrucciones de interacción
 
 ### Depositar Ether
 1. En Remix, en el campo **Value**, ingresar el monto en wei (ejemplo: `1000000000000000` = 0.001 ETH).
